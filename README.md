@@ -4,7 +4,7 @@ A web app allows you to track expenses. Allows you to submit the name, date, and
 # Screenshot:
 
 <p align="center">
-  <img src="Screenshot/Expense-Tracker.JPG" />
+  <img src="Screenshot/Expense-Tracker-Screenshot.JPG" />
 </p>
 
 #
